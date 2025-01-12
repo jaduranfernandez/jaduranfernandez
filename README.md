@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaduranfernandez&label=Profile%20views&color=0e75b6&style=flat" alt="jaduranfernandez" /> </p>
 
-- 🔭 I’m currently working on **Face generation using Deep Learning**
+- 🔭 I’m currently working on **Raytracing in C++**
 
 - 🌱 I’m currently learning **Generative Adversarial Networks (GAN) in Python**
 
